@@ -1,12 +1,3 @@
-# 💫 About Me:
-
-🔭 I’m currently working on **your current project here**
-👯 I’m looking to collaborate on **web / mobile / AI projects**
-🤝 I’m looking for help with **scaling apps & system design**
-🌱 I’m currently learning **advanced backend + AI integration**
-💬 Ask me about **full-stack development & APIs**
-⚡ Fun fact: **I can switch stacks faster than I switch tabs**
-
 ---
 
 # 💻 Tech Stack:
